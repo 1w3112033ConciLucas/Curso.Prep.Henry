@@ -226,7 +226,7 @@ Usaremos la primera forma en esta lección y hablaremos sobre las otras formas e
 
 ### Anatomía de una Función
 
-```javascript
+```javascript   
 function miFuncion() {}
 ```
 
