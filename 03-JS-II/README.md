@@ -14,7 +14,8 @@
 </table>
 # Lección 3: Javascript II (Flujos de control, operadores de comparación, bucles `for`)
 
-En esta lección cubriremos:
+En esta lección cubriremos://*********
+
 
 * `Undefined` y `null`
 * Operadores de comparación (continuación)
