@@ -138,16 +138,16 @@ function multiplicarArgumentos() {
   // Si no se pasan argumentos devuelve 0
   // Si se pasa un argumento, simplemente devuélvelo
   // Tu código:
-  var total = 1;
+  var tot = 1;
   if(arguments.length < 1) 
   {
     return 0;
   }
   for(i=0; i<arguments.length; i++)
   {
-    total = total * arguments[i];
+    tot = tot * arguments[i];
   }
-  return total;
+  return tot;
 }
 
 // No modificar nada debajo de esta línea
